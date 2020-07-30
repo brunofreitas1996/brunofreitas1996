@@ -5,7 +5,7 @@ I'm always looking for new skills ⚡ ...
 
 [LinkedIn](https://www.linkedin.com/in/bruno-freitas-892136bb/)
 
-[![Build Status](https://travis-ci.org/condessalovelace/mavenquickstart.svg?branch=master)](https://travis-ci.org/condessalovelace/mavenquickstart) 
+[![LinkedIn](https://www.linkedin.com/in/bruno-freitas-892136bb/)](https://travis-ci.org/condessalovelace/mavenquickstart) 
 
 
 
