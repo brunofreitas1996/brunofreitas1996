@@ -1,4 +1,12 @@
-### Hi there 👋
+#### Hi there 👋
+
+🌱 I’m currently learning
+
+
+I am a system analyst and currently completing my postgraduate degree in database administration. Lover of the maker and IOT world.
+I'm always looking for new skills ⚡ ...
+
+
 
 <!--
 **brunofreitas1996/brunofreitas1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
