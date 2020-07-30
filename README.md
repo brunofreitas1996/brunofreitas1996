@@ -1,9 +1,6 @@
 #### Hi there 👋
 
-![octocat](https://user-images.githubusercontent.com/51858121/88953597-8868e500-d26f-11ea-8165-9c0db604f6b3.png)
-
-
-🌱 I’m currently learning
+#####🌱 I’m currently learning
 
 
 I am a system analyst and currently completing my postgraduate degree in database administration. Lover of the maker and IOT world.
