@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-#####🌱 I’m currently learning
+🌱 ## I’m currently learning
 
 
 I am a system analyst and currently completing my postgraduate degree in database administration. Lover of the maker and IOT world.
